@@ -72,6 +72,7 @@ Also note the **Organization ID** of your root organization — click the organi
    - Code
    - Client Credentials
    - Organization Switch
+   - Token Exchange
 3. Add `http://localhost:3000` as an **Authorized Redirect URL**.
 4. Add `http://localhost:3000` to **Allowed Origins**.
 5. Under **Access Token**, set **Token Type** to **JWT**.
